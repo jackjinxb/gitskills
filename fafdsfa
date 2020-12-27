@@ -1,0 +1,30 @@
+[33mcommit be5d538f6344f4b1fa7786dac76dfb24c8df0496[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: 3b0d29f 38cd54b
+Author: jackjinxb <45547114+jackjinxb@users.noreply.github.com>
+Date:   Sun Dec 27 19:12:17 2020 +0800
+
+    Merge branch 'feature1' into main
+
+[33mcommit 3b0d29fb6da14855760a4244f0c6fb9f592fc79f[m
+Author: jackjinxb <45547114+jackjinxb@users.noreply.github.com>
+Date:   Sun Dec 27 19:12:12 2020 +0800
+
+    MODIFY
+
+[33mcommit 38cd54bdf32fa7a59a4c42d29fc54bc5964cd54b[m[33m ([m[1;32mfeature1[m[33m)[m
+Author: jackjinxb <45547114+jackjinxb@users.noreply.github.com>
+Date:   Sun Dec 27 19:06:33 2020 +0800
+
+    ADD Simple
+
+[33mcommit 75fb80ff136383e38284c7a70ab4ce256dd22495[m[33m ([m[1;32mdev[m[33m)[m
+Author: jackjinxb <45547114+jackjinxb@users.noreply.github.com>
+Date:   Sun Dec 27 18:54:10 2020 +0800
+
+    branch test
+
+[33mcommit 6d02e90cc261cb3e69a47e204eeddf05f10e5d8e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: jackjinxb <45547114+jackjinxb@users.noreply.github.com>
+Date:   Sun Dec 27 18:28:48 2020 +0800
+
+    Initial commit
